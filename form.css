@@ -1,0 +1,37 @@
+/* selector{
+	property: value;
+} */
+.put{
+	background-color: #fff;
+}
+.navbar{
+   
+    font-style: inherit;
+    font-weight: bolder;
+    font-size: 19px;
+    font-family: 'Droid';
+    box-shadow: 2px 2px 2px 2px white;
+    
+}
+.container{
+	
+        font-size: 20px;
+        font-family: 'Droid';
+        
+ 
+}
+
+.fixed-top{
+    background-color: rgba(0, 252, 21,);
+}
+
+/* h4{
+	font-style: oblique;
+	border-bottom: 2px solid cornsilk;
+	border-right: 2px solid cornsilk;
+	text-align: center;
+	box-shadow: 4px 4px 5px #888888;
+	margin-top: 5px;
+	text-align: center;
+} */
+

@@ -1,0 +1,132 @@
+.body{
+    background-color: white;
+}
+
+.card:hover{
+    box-shadow: 8px 8px 5px limegreen;    
+    transform: scale(1.1);
+
+} 
+
+
+.ml-5{
+margin-right: 100px;
+}
+.bid{
+    font-weight: bold;
+    font-family: 'Droid';
+}
+.hero{
+    font-weight: bold;
+    border-bottom: 2px solid rgb(220, 255, 226);
+    border-right: 2px solid rgb(220, 255, 220);
+    border-left: 2px solid rgb(220, 255, 220);
+    border-top: 2px solid rgb(220, 255, 220);
+    box-shadow: 4px 4px 5px #888888;
+    width: 70%;
+    align-content: center;
+    font-size: 35px;
+    font-family: 'Droid';
+}
+.hero:hover{
+    transform: scale(0.5) ;
+   
+}
+.card-title{
+    font-size: 28px;
+    font-weight: bold;
+    font-family: 'Droid';
+}
+
+@media (min-width: 320px) and (max-width: 1199.98px) { 
+    .lead{
+        font-size: 45px;
+        font-family: 'Droid';
+
+    }
+    .card-body{
+        font-size: 45px;
+        font-family: 'Droid';
+        
+    }
+    .led{
+        font-size: 35px;
+    }
+    .card:hover{
+        box-shadow: 8px 8px 5px limegreen;    
+        transform: scale(1.1);
+    
+    } 
+    .card-title{
+        font-size: 45px;
+        font-family: 'Droid';
+    }
+    .card-text{
+        font-size: 35px;
+        font-family: 'Droid';
+    }
+    
+    
+    .hero{
+        font-weight: bold;
+        border-bottom: 2px solid rgb(220, 255, 226);
+        border-right: 2px solid rgb(220, 255, 220);
+        border-left: 2px solid rgb(220, 255, 220);
+        border-top: 2px solid rgb(220, 255, 220);
+        box-shadow: 4px 4px 5px #888888;
+        width: 60%;
+        font-size: 60px;
+        font-family: 'Droid';
+        align-content: center;
+    }
+    .card{
+      
+        margin-right: 6%;
+        margin-bottom: 6%;
+        width: 22rem;
+    }
+    
+    .row{
+        margin-left: 10%;
+              
+    }
+    .ada{
+        font-size: 35px;
+    }
+    .nav-item{
+        font-size: 35px;
+    }
+ }
+ .card-body{
+    font-size: 20px;
+    font-family: 'Droid';
+    
+}
+.navbar{
+   
+    font-style: inherit;
+    font-weight: bolder;
+    font-size: 19px;
+    font-family: 'Droid';
+    box-shadow: 2px 2px 2px 2px white;
+    
+}
+
+.lead{
+    margin-top: 20px;
+    font-family: 'Droid';
+}
+
+
+.footer {
+    position: sticky;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(1, 119, 1, 0.781);
+    color: white;
+    text-align: left;
+    font-weight: bolder ;
+    font-size: 19px;
+    font-family: 'Droid';
+ }
